@@ -8,6 +8,16 @@ This is a Movie Recommendation System built using machine learning algorithms. I
 - Utilizes machine learning algorithms for predictions.
 - Can handle large datasets and provides personalized recommendations.
 
+## Movie Posters
+
+Here are some example movie posters used in the recommendation system:
+
+### Iron Man
+![Iron Man](images/ironman.png)
+
+### Batman
+![Batman](images/batman.png)
+
 ## Installation
 
 ### Prerequisites
