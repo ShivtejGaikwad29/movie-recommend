@@ -5,7 +5,7 @@ import difflib
 import requests
 
 # TMDb API key
-API_KEY = "8754306efc0f357274330b425b08fcd4"
+API_KEY = "Replace With Your TMDB Api Key"
 
 # Load movie data and similarity matrix
 movies = pd.read_pickle("movies.pkl")
